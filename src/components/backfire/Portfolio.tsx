@@ -1,7 +1,7 @@
 import { ArrowUpRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import fluxenPortfolio from "@/assets/fluxen-portfolio.png";
-import p2 from "@/assets/portfolio-2.jpg";
+import siteLaMelanina from "@/assets/site lamelanina.png";
 import p3 from "@/assets/portfolio-3.jpg";
 import contabilidadeFoto from "@/assets/contabilidade-foto.png";
 
@@ -20,9 +20,9 @@ const projects = [
     link: "https://contabilidade-2-smoky.vercel.app/",
   },
   {
-    img: p2,
-    title: "Landing Page - Mentoria Online",
-    desc: "Feita para promover o produto de mentoria online, com foco em gatilhos mentais para facilitar a venda e aumento das inscrições. Formato ideal para infoprodutores.",
+    img: siteLaMelanina,
+    title: "La Melanina Bronzeamento Premium",
+    desc: "Landing page elegante e responsiva desenvolvida para estúdio de bronzeamento premium, com design sofisticado, foco em conversão, experiência moderna e agendamento online.",
   },
 ];
 
