@@ -1,6 +1,6 @@
 import { WhatsAppIcon } from "./WhatsAppIcon";
 import { Button } from "@/components/ui/button";
-import contabilidadeFoto from "@/assets/CONTABILIDADE FOTO.PNG";
+import contabilidadeFoto from "@/assets/contabilidade-foto.png";
 
 export function Hero() {
   return (
