@@ -23,6 +23,7 @@ const projects = [
     img: siteLaMelanina,
     title: "La Melanina Bronzeamento Premium",
     desc: "Landing page elegante e responsiva desenvolvida para estúdio de bronzeamento premium, com design sofisticado, foco em conversão, experiência moderna e agendamento online.",
+    link: "https://la-melanina.vercel.app/#inicio",
   },
 ];
 
