@@ -41,7 +41,7 @@ export function Hero() {
           </div>
 
           {/* Título (impactante + destaque laranja) */}
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.02] tracking-tight text-left">
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-[1.05] tracking-tight text-left">
             Perdendo clientes
             <br />
             por falta de um site?
