@@ -2,19 +2,18 @@
 
 
 const team = [
+   {
+    name: "Janderson Dias",
+    role: "Criador da BackFire",
+    desc: "Desenvolvedor Full Stack com forte bagagem no mercado digital e dezenas de projetos entregues. Trago a experiência tática de operações e estruturação de ofertas para dentro do código. Meu objetivo é criar máquinas de conversão sob medida: sejam landing pages para escalar campanhas, sites institucionais para firmar autoridade ou portfólios desenhados para captar clientes. Uno alta performance e design estratégico para transformar a sua presença digital em resultados reais.",
+    img: "/janderson.jpeg",
+  },  
   {
     name: "Mateus Alves",
     role: "Front-End & Web Designer",
     desc: "Desenvolvedor Front-End e Web Designer com experiência na criação de interfaces modernas, intuitivas e responsivas. Atuo no desenvolvimento de landing pages e sites personalizados, focando em design estratégico, usabilidade e conversão. Busco sempre entregar projetos visualmente profissionais que fortaleçam a presença digital e atraiam mais clientes.",
     img: "/mateus.png",
-  },
-  {
-    name: "Janderson Dias",
-    role: "Criador da BackFire",
-    desc: "Desenvolvedor Full Stack com dezenas de projetos entregues em diferentes setores, atuando na criação de soluções digitais modernas e estratégicas. Experiência no desenvolvimento de landing pages e aplicações personalizadas, com foco em performance, usabilidade e crescimento de negócios. Buscando sempre entregar projetos que geram resultados reais, fortalecendo a presença digital e aumentando a conversão de clientes",
-    img: "/janderson.jpeg",
-  },
-];
+  },];
 
 export function Team() {
   return (
