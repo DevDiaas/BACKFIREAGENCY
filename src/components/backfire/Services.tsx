@@ -8,8 +8,8 @@ const services = [
     title: "Desenvolvimento de sites institucionais",
     sub: "Ideal para empresas e escritórios",
     desc: "Desenvolvimento de páginas que comunicam a identidade da empresa de forma clara e atrativa. Seu negócio ganha mais autoridade e destaque no ambiente online.",
-    price: "10x de R$ 176,90",
-    fullPrice: "ou R$ 1.497 à vista",
+    price: "10x de R$ 120,90",
+    fullPrice: "ou R$ 1.100 à vista",
     linkWhatsApp: "https://wa.me/5569999627328?text=Ol%C3%A1%2C%20vim%20pelo%20site%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20o%20desenvolvimento%20de%20um%20site%20institucional.",
   },
   {
@@ -17,8 +17,8 @@ const services = [
     title: "Desenvolvimento de landing pages",
     sub: "Ideal para infoprodutos e pequenos negócios",
     desc: "Página única que é pensada para captar a atenção do visitante e guiá-lo até a ação desejada. Assim, sua empresa conquista mais resultados em campanhas digitais.",
-    price: "10x de R$ 111,90",
-    fullPrice: "ou R$ 950 à vista",
+    price: "10x de R$ 65,90",
+    fullPrice: "ou R$ 550 à vista",
     linkWhatsApp: "https://wa.me/5569999627328?text=Ol%C3%A1%2C%20vim%20pelo%20site%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20o%20desenvolvimento%20de%20uma%20landing%20page.",
   },
   {
@@ -26,8 +26,8 @@ const services = [
     title: "Desenvolvimento de portfólio Profissional",
     sub: "Ideal para profissionais autônomos",
     desc: "Página única com o objetivo de atrair e engajar potenciais clientes de forma intuitiva e facilitar agendamentos. Potencialize a captação de novos projetos.",
-    price: "10x de R$ 111,90",
-    fullPrice: "ou R$ 950 à vista",
+    price: "10x de R$ 65,90",
+    fullPrice: "ou R$ 550 à vista",
     linkWhatsApp: "https://wa.me/5569999627328?text=Ol%C3%A1%2C%20vim%20pelo%20site%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20o%20desenvolvimento%20de%20um%20portf%C3%B3lio%20profissional.",
   },
 ];
