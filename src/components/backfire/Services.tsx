@@ -8,7 +8,7 @@ const services = [
     title: "Desenvolvimento de sites institucionais",
     sub: "Ideal para empresas e escritórios",
     desc: "Desenvolvimento de páginas que comunicam a identidade da empresa de forma clara e atrativa. Seu negócio ganha mais autoridade e destaque no ambiente online.",
-    price: "10x de R$ 120,90",
+    price: "10x de R$ 119,90",
     fullPrice: "ou R$ 1.100 à vista",
     linkWhatsApp: "https://wa.me/5569999627328?text=Ol%C3%A1%2C%20vim%20pelo%20site%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20o%20desenvolvimento%20de%20um%20site%20institucional.",
   },
